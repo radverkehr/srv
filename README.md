@@ -9,7 +9,7 @@ SrV Tabllenberichte (PDFs)
 - ...
 
 ## Visualisation
-[LINK]
+https://radverkehr.github.io/srv/SrV2018_NutzungshaeufigkeitFahrrad.html
 
 
 ##
